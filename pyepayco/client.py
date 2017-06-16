@@ -53,7 +53,7 @@ class Util():
 
 class Client:
 
-    BASE_URL = "http://ec2-54-167-68-102.compute-1.amazonaws.com";
+    BASE_URL = "https://api.secure.payco.co";
     BASE_URL_SECURE = "https://secure.payco.co";
     IV = "0000000000000000";
     LENGUAGE = "python";
